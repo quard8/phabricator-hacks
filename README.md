@@ -9,6 +9,8 @@ List of hacks
 
 1. [Adding custom phpunit configuration file](https://github.com/quard8/phabricator-hacks/blob/master/1-custom-phpunit-config.md)
 
+2. [List of all lint engines options](https://github.com/quard8/phabricator-hacks/blob/master/2-linter-options.md)
+
 
 Feel free to contribute
 -------------
